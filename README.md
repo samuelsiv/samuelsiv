@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsiv&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsiv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelsiv" alt="samuelsiv" /></a> </p>
-
 - 🔭 I’m currently working on [Classeviva API.](https://github.com/samuelsiv/Classeviva)
 
 - 🌱 I’m currently learning **a bit more of C++ and taking courses on computer science.**
