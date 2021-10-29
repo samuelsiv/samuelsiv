@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **a bit more of C++ and taking courses on computer science.**
 
-- 📫 How to reach me **todo@todo2.todo**
+- 📫 How to reach me **me@samuelsiv.xyz**
 
 - ⚡ Fun fact **I am boring**.
 
