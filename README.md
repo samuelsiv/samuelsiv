@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Siviero.</h1>
 <h3 align="center">A C++ and Python enthusiast.</h3>
 
-- 🔭 I’m currently working on [Classeviva API.](https://github.com/samuelsiv/Classeviva)
+- 🔭 I’m currently working on [scribd-dumper](https://github.com/samuelsiv/scribd-dumper)
 
-- 🌱 I’m currently learning **a bit more of C++ and taking courses on computer science.**
+- 🌱 I’m currently learning **C++ and NodeJS.**
 
 - 📫 How to reach me **me@samuelsiv.xyz**
 
