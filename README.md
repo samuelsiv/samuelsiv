@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Siviero.</h1>
-<h3 align="center">A C++ and Python enthusiast.</h3>
+<h1 align="center">Hi, I'm Samuel Siviero.</h1>
 
 - 🔭 I’m currently working on [scribd-dumper](https://github.com/samuelsiv/scribd-dumper)
 
