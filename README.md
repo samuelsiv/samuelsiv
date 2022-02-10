@@ -8,6 +8,13 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Python       3 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.85 % 
+JavaScript   3 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   38.39 % 
+C++          44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+JSON         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+```
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsiv&show_icons=true&locale=en&layout=compact&theme=radical" alt="samuelsiv" /></p>
