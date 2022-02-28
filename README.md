@@ -8,13 +8,16 @@
 
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   4 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   35.28 % 
-TypeScript   3 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   31.90 % 
-Python       2 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-Java         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Smali        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python       4 hrs 42 mins   ████████████▓░░░░░░░░░░░░   50.99 %
+TypeScript   2 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+JavaScript   1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Java         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Smali        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsiv&show_icons=true&locale=en&layout=compact&theme=radical" alt="samuelsiv" /></p>
