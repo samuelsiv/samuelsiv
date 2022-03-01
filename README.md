@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on McHells.
 
-- 🌱 I’m currently learning ** NodeJS.**
+- 🌱 I’m currently learning NodeJS
 
 - 📫 How to reach me **me@samuelsiv.xyz**
 
