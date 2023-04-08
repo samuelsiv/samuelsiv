@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I am Samuel Siviero.</h1>
 
-- 🔭 I’m currently working on [Raider](https://github.com/kem0x/raider3.5).
+- 🔭 I’m currently working on [ECS Reborn](https://rbx.samu3l.wtf).
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Typescript
 
-- 📫 How to reach me **me@samuelsiv.xyz**
-
+- ❤️ I love a certain girl named Ellie
 
 <!--START_SECTION:waka-->
 
