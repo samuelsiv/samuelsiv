@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Typescript
 
-- ❤️ I love a certain girl named Ellie
+- ❤️ I love a certain girl named Ella
 
 <!--START_SECTION:waka-->
 
