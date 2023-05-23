@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [ECS Reborn](https://rbx.samu3l.wtf).
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning TypeScript, React and much more...
 
 - ❤️ I love a certain girl named Ella
 
