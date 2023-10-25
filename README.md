@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Samuel Siviero.</h1>
 
-- 🔭 I’m currently working on [ECS Reborn](https://ecsrev.xyz).
+- 🔭 I’m currently working on [ECS Reborn](https://ecsr.io) (on break from the project).
 
 - 🌱 I’m currently learning TypeScript, React and much more...
 
