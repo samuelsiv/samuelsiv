@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Samuel Siviero.</h1>
 
-- 🔭 I’m currently working on [Presidio](https://presidio.ac) (on break from the project).
+- 🔭 I’m currently working on [Presidio](https://presidio.ac).
 
 - 🌱 I’m currently learning TypeScript, React and much more...
 
