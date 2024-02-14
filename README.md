@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I am Samuel Siviero.</h1>
 
-- 🔭 I’m currently working on [Presidio](https://presidio.ac).
+- 🔭 I’m currently working on [Presidio](https://presidio.ac), an anti-cheat for [Project Nova](https://discord.gg/novafn).
 
-- 🌱 I’m currently learning TypeScript, React and much more...
+- 🌱 I’m learning Windows API, Backend / Frontend architectures and live services managing.
 
-- ❤️ I love a certain girl named Ella
+- ❤️ I love a certain girl named Ella.
 
 <!--START_SECTION:waka-->
 
