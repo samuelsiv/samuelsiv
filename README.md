@@ -22,7 +22,3 @@ Python        1 hr 13 mins    █░░░░░░░░░░░░░░░�
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelsiv&show_icons=true&locale=en&theme=radical" alt="samuelsiv" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsiv&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsiv" /> </p>
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/92873908?v=4');]{x0000}$}
