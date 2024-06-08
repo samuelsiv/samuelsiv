@@ -25,4 +25,4 @@ Python        1 hr 13 mins    █░░░░░░░░░░░░░░░�
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/samuelsiv/samuelsiv/main/maxresdefault.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/92873908?v=4');]{x0000}$}
