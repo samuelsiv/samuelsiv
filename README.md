@@ -4,8 +4,6 @@
 
 - 🌱 I’m learning Windows API, Backend / Frontend architectures and live services managing.
 
-- ❤️ I love a certain girl named Ella.
-
 <!--START_SECTION:waka-->
 
 ```txt
