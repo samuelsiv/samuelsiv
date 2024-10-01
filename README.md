@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [Presidio](https://presidio.ac), an anti-cheat for [Project Nova](https://discord.gg/novafn).
 
-- 🌱 I’m learning Windows API, Backend / Frontend architectures and live services managing.
-
 <!--START_SECTION:waka-->
 
 ```txt
