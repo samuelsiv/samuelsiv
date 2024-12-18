@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++           7 mins          ████████████████████████▓   98.64 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
