@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I am Samuel Siviero.</h1>
 
-- 🔭 I’m currently working on [Presidio](https://presidio.ac), an anti-cheat for [Project Nova](https://discord.gg/novafn).
-
 <!--START_SECTION:waka-->
 
 ```txt
