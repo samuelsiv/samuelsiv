@@ -1,12 +1,5 @@
 <h1 align="center">Hi there, I am Samuel Siviero.</h1>
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsiv&show_icons=true&locale=en&layout=compact&theme=radical" alt="samuelsiv" /></p>
 
